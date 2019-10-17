@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="preto">#000000</color>
+    <color name="grafite">#222</color>
+    <color name="branco">#FFFFFF</color>
+    <color name="vermelha">#F44336</color>
+    <color name="corSeekBar">#1AFFFFFF</color>
+
+</resources>
